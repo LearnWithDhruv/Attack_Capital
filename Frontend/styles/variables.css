@@ -1,0 +1,33 @@
+:root {
+    /* Colors */
+    --primary-color: #3498db; /* Main brand color */
+    --secondary-color: #2ecc71; /* Accent color */
+    --background-color: #f9f9f9; /* Page background */
+    --text-color: #333333; /* Default text color */
+    --error-color: #e74c3c; /* Error message color */
+  
+    /* Typography */
+    --font-family-sans: 'Arial', sans-serif; /* Default sans-serif font */
+    --font-family-mono: 'Courier New', monospace; /* Monospaced font */
+    --font-size-small: 12px; /* Small text */
+    --font-size-base: 16px; /* Base text */
+    --font-size-large: 24px; /* Large text */
+  
+    /* Spacing */
+    --spacing-xs: 4px; /* Extra small spacing */
+    --spacing-sm: 8px; /* Small spacing */
+    --spacing-md: 16px; /* Medium spacing */
+    --spacing-lg: 24px; /* Large spacing */
+    --spacing-xl: 32px; /* Extra large spacing */
+  
+    /* Borders */
+    --border-radius: 4px; /* Default border radius */
+    --border-color: #dddddd; /* Default border color */
+    --border-width: 1px; /* Default border width */
+  
+    /* Shadows */
+    --shadow-sm: 0px 1px 2px rgba(0, 0, 0, 0.1); /* Small shadow */
+    --shadow-md: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Medium shadow */
+    --shadow-lg: 0px 10px 15px rgba(0, 0, 0, 0.1); /* Large shadow */
+  }
+  
