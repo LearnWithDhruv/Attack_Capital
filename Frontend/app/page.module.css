@@ -1,0 +1,46 @@
+.page {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.main {
+  text-align: center;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.posts {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.post {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.post h3 {
+  margin: 0 0 10px;
+}
+
+.post p {
+  margin: 0 0 10px;
+}
+
+.post small {
+  color: #555;
+}
+
+.footer {
+  margin-top: 50px;
+  padding-top: 20px;
+  border-top: 1px solid #ccc;
+  text-align: center;
+}
